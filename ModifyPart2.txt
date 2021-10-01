@@ -3,6 +3,6 @@ This is my Modification Part2
 I am practicing Git branch
 More Practice with Git Branching
 I ADDED ONE
-
+Do not stage this 
 
 --------This is the footer for my ModifyPart2-----------
